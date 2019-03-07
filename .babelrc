@@ -1,0 +1,16 @@
+{
+    "presets": [
+        "stage-2",
+        "react"
+    ],
+    "plugins": [
+        [
+            "import",
+            {
+                "libraryName": "antd",
+                "style": true
+            }
+        ],
+        "transform-decorators-legacy"
+    ]
+}
