@@ -41,7 +41,7 @@
     "koa-webpack-middleware-zm": "0.0.4",
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.12.1",
     "prop-types": "^15.6.0",
     "pubsub-js": "^1.5.7",
